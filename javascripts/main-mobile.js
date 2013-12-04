@@ -1,0 +1,1 @@
+$(document).ready(function(){var displayingVideo=false;$('.show-video').click(function(){displayingVideo=true;$('.shyp-video-container').fadeIn("slow");});$('.button-close').click(function(){displayingVideo=false;$('.shyp-video-container').fadeOut("slow");});});
