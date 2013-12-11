@@ -515,6 +515,12 @@ ul.social-link a{
 	 transition: all 250ms ease-in-out;
 	 opacity: 1;
 }
+.legal-notice {
+	font-size: 10px;
+	color: #4E6069;
+	padding-top: 30px;
+	line-height: 14px;
+}
 
 
 
